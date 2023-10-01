@@ -18,7 +18,7 @@
 
 6. Open Camera
 
-7. ![image](https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/0f478676-c5dd-4a0f-a0d1-e92894d6242e)
+![image](https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/0f478676-c5dd-4a0f-a0d1-e92894d6242e)
 
 ![image](https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/4af25df3-b649-4a72-90c9-ca7fabc84314)
 
