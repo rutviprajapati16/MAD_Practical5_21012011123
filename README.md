@@ -18,7 +18,13 @@
 
 6. Open Camera
 
+**Light Theme:**
+
+
 ![image](https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/0f478676-c5dd-4a0f-a0d1-e92894d6242e)
+
+**Dark Theme:**
+
 
 ![image](https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/14f262be-74fc-4768-9bbc-0c804548faa8)
 
