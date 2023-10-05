@@ -20,12 +20,13 @@
 
 **Light Theme:**
 
+<img src="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/07af0fae-2cd5-47ee-acd3-03522bc8d87e" height="500" width="300">
 
-![image](https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/0f478676-c5dd-4a0f-a0d1-e92894d6242e)
 
 **Dark Theme:**
 
 
-![image](https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/14f262be-74fc-4768-9bbc-0c804548faa8)
+<img src="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/72b32dfe-9638-485e-a580-9c55c0cec7c0" height="500" width="300">
+
 
 
