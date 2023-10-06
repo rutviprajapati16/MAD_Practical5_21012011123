@@ -45,10 +45,9 @@
 
 <img src="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/acf23c99-2083-4e55-8817-5b152aff3762" height="500" width="300">
 
-
 **Open Camera:**
 
-<src img="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/25390c3b-6cee-43b8-8472-7743bed9440a" height="500" width="300">
+<img src="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/1a54a07a-13cb-4fb9-a661-eb0e4cc86c3b" height="500" width="300">
 
 **Set Alarm:**
 
