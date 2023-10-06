@@ -29,8 +29,14 @@
 <img src="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/72b32dfe-9638-485e-a580-9c55c0cec7c0" height="500" width="300">
 
 
-**Open Call Log:**
+**Make call to specific number**
 
 <img src="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/964f123f-f9a3-4732-b4a4-de42bb2b71ef" height="500" width="300">
+
+**Open specif URL:**
+**Open Call Log:**
+**Open Galary:**
+**Open Camera:**
+**Set Alarm:**
 
 
