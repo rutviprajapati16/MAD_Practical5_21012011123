@@ -23,15 +23,28 @@
 -> There are two types of intents :-
 
 Implicit Intent & 2. Explicit Intent
+
 **Types of Intent Action :-**
 
-ACTION_VIEW
-ACTION_DIAL
-ACTION_EDIT
-ACTION_PICK
-ACTION_ANSWER
-ACTION_INSERT
-ACTION_DELETE , etc..
+1.ACTION_VIEW
+
+
+2.ACTION_DIAL
+
+
+3.ACTION_EDIT
+
+
+4.ACTION_PICK
+
+
+5.ACTION_ANSWER
+
+
+6.ACTION_INSERT
+
+
+7.ACTION_DELETE , etc..
 
 **Light Theme:**
 
