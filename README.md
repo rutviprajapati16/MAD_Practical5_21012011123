@@ -34,9 +34,25 @@
 <img src="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/964f123f-f9a3-4732-b4a4-de42bb2b71ef" height="500" width="300">
 
 **Open specif URL:**
+
+<img src="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/c2d94d85-6dc5-405f-a170-a8737a66b775" height="500" width="300">
+
 **Open Call Log:**
+
+<img src="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/64546134-ad49-4b3f-b8ad-141e01a15678" height="500" width="300">
+
 **Open Galary:**
+
+<img src="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/acf23c99-2083-4e55-8817-5b152aff3762" height="500" width="300">
+
+
 **Open Camera:**
+
+<src img="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/25390c3b-6cee-43b8-8472-7743bed9440a" height="500" width="300">
+
 **Set Alarm:**
+
+<img src="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/bdbaad54-b1f7-4931-b1d4-28c8629a84fa" height="500" width="300">
+
 
 
