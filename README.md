@@ -46,6 +46,8 @@ Implicit Intent & 2. Explicit Intent
 
 7.ACTION_DELETE , etc..
 
+**Output:**
+
 **Light Theme:**
 
 <img src="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/07af0fae-2cd5-47ee-acd3-03522bc8d87e" height="500" width="300">
