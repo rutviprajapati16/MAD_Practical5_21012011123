@@ -18,6 +18,21 @@
 
 6. Open Camera
 
+**Ans :-** Intent is the Process of taking users from one application to another.
+
+-> There are two types of intents :-
+
+Implicit Intent & 2. Explicit Intent
+**Types of Intent Action :-**
+
+ACTION_VIEW
+ACTION_DIAL
+ACTION_EDIT
+ACTION_PICK
+ACTION_ANSWER
+ACTION_INSERT
+ACTION_DELETE , etc..
+
 **Light Theme:**
 
 <img src="https://github.com/rutviprajapati16/MAD_Practical5_21012011123/assets/97946004/07af0fae-2cd5-47ee-acd3-03522bc8d87e" height="500" width="300">
